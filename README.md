@@ -11,3 +11,5 @@ To run it, just type:
 
 	./deploy.sh test (to deploy on your test server)
 	./deploy.sh production (to deploy on your production server) 
+	
+Do not forget to make the deploy.sh script executable.
