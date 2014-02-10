@@ -1,0 +1,9 @@
+deploy.sh
+exclude.rsync
+wp-content/uploads/
+wp-config.php
+.project
+.gitignore
+.git/
+
+# Add here the files or folder you don't want to be deployed
