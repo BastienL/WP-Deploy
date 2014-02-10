@@ -9,5 +9,5 @@ To use it, just update the constants in the deploy.sh file and add your custom n
 
 To run it, just type:
 
-	`./deploy.sh test` (to deploy on your test server)
-	`./deploy.sh production` (to deploy on your production server) 
+	./deploy.sh test (to deploy on your test server)
+	./deploy.sh production (to deploy on your production server) 
